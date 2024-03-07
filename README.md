@@ -10,11 +10,11 @@
 
 ###
 
+<br>
 <div align="center">
-  <img align="right" vertical-align= text-top height="300" src="https://i.imgflip.com/65efzo.gif"  />
+  <img align="right" vertical-align= text-top height="200" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
 
-<br>
 
 ###
 
@@ -28,7 +28,8 @@
   
 - ⚡ Fun fact **There are 4.66 billion active internet users worldwide.**
 
-<br><br>
+<br>
+
 ###
 
 <h3 align="left">Connect with me:</h3>
